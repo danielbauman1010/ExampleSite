@@ -1,0 +1,22 @@
+{
+  "name": "examplesite",
+  "version": "1.0.0",
+  "description": "This is an example site",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbauman1010/ExampleSite.git"
+  },
+  "author": "Daniel Bauman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbauman1010/ExampleSite/issues"
+  },
+  "homepage": "https://github.com/danielbauman1010/ExampleSite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
